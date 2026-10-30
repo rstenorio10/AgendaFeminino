@@ -7,7 +7,7 @@
 // URL ORIGINAL DO GOOGLE APPS SCRIPT
 const URL_GOOGLE_SCRIPT = "https://script.google.com/macros/s/AKfycbxkwXZfNqKix5qmrdJLFQk32HT2WIi0W6NNYvCiCYF7cezDcbJ-iN6B2bwwrtUEq8u3/exec";
 
-const SENHA_MESTRE = "123";
+const SENHA_MESTRE = "Davi07";
 
 const INICIO_EXPEDIENTE = 9 * 60;
 const FIM_EXPEDIENTE = 20 * 60;
