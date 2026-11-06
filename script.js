@@ -655,7 +655,7 @@ async function agendar() {
 
         const dataFormatada = formatarDataBR(data);
 
-        const numeroWhatsapp = "5511948791705";
+        const numeroWhatsapp = "5511981018939";
 
         const chavePix = "34385500835";
 
