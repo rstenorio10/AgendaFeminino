@@ -674,7 +674,7 @@ async function agendar() {
 
             `💵 *Sinal de Agendamento:* R$ 30,00\n` +
 
-            `🔑 *Chave Pix (CPF):* ${chavePix}\n\n` +
+            `🔑 *Chave Pix (Cel):* ${chavePix}\n\n` +
 
             `📌 *Aviso:* Enviarei o comprovante do Pix de R$ 30,00 a seguir para confirmar meu agendamento. Estou ciente de que, em caso de não comparecimento, o valor não será ressarcido.`;
 
