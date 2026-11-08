@@ -657,7 +657,7 @@ async function agendar() {
 
         const numeroWhatsapp = "5511981018939";
 
-        const chavePix = "34385500835";
+        const chavePix = "11981018939";
 
 
         const mensagem =
